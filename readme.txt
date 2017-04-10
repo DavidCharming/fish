@@ -2,4 +2,4 @@ I'm very very Charming.
 I am using git.
 Now trace back.
 Hello
-creat a new branch.
+creat a new branch is very easy.
